@@ -27,9 +27,9 @@ paginate: 4
 paginate_path: "/:num"
 exclude: ['images/original']
 permalink: :title
+highlighter: rouge
 
 plugins:
-  - jekyll-feed
   - jekyll-paginate
 
 # Exclude from processing.
