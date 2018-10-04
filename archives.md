@@ -3,7 +3,7 @@ layout: default
 title: "archives"
 ---
 
-# Archive of All Posts
+# 归档
 
 {% for post in site.posts %}
     {% assign year = post.date | date: '%Y' %}
