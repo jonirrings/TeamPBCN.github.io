@@ -1,0 +1,8 @@
+wip:
+  name: 进行中
+
+done:
+  name: 已完成
+
+released:
+  name: 已发布
