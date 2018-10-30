@@ -49,4 +49,4 @@ tags: ["released"]
 ![screenshot3](/images/{{ page.url }}/screenshot_03.jpg)
 
 ### 【下载地址】
-[百度云](https://pan.baidu.com/s/1qY3SuF6) 密码: ydpd
+[暂无可用链接]

@@ -25,4 +25,4 @@ tags: ["released"]
 ![screenshot3](/images/{{ page.url }}/screenshot_03.png)
 
 ### 【下载地址】
-[百度云](https://pan.baidu.com/s/1c2FCOc4)密码：iogi
+[暂无可用链接]
