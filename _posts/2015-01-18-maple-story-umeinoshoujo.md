@@ -10,8 +10,8 @@ tags: ["released"]
 | ------ | ------ | ------ |
 | 中文名称 | 冒险岛:命运的少女 |
 | 游戏类型 | ARPG |
-| 游戏版权 | Nexon Korea Corporation |
-| 汉化版权 | Team PB |
+| 游戏发行 | Nexon Korea Corporation |
+| 汉化制作 | Team PB |
 | 汉化版本 | v1.1 |
 | 游戏编号 | 00040000000E6000 |
 
