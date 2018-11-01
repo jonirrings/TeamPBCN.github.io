@@ -27,8 +27,8 @@ tags: ["released"]
 * 破解、程序：LITTOMA
 
 ### 【下载地址】
-[百度云](https://pan.baidu.com/s/1_iWr1STOkdSim1q4VNQaxw) 密码：tu1b
+[[百度云]](https://pan.baidu.com/s/1_iWr1STOkdSim1q4VNQaxw) 密码：tu1b
 
-[3DS格式ROM补丁]({{ site.url }}/downloads{{ page.url }}/{{ "[TeamPB]Miku_Project_DX_CHS_v1.0.exe" | cgi_escape }})
+[[3DS格式ROM补丁]]({{ site.url }}/downloads{{ page.url }}/{{ "[TeamPB]Miku_Project_DX_CHS_v1.0.exe" | cgi_escape }})
 
-[Luma3DS补丁]({{ site.url }}/downloads{{ page.url }}/{{ "[TeamPB]Miku_Project_DX_CHS_v1.0_for_luma.zip" | cgi_escape }})
+[[Luma3DS补丁]]({{ site.url }}/downloads{{ page.url }}/{{ "[TeamPB]Miku_Project_DX_CHS_v1.0_for_luma.zip" | cgi_escape }})

@@ -32,11 +32,11 @@ tags: ["released"]
 
 
 ### 【下载地址】
-[日版CIA](https://pan.baidu.com/s/14tJpFPw8AfzNi_YWIdvAog) 密码: jkwp
+[[日版CIA]](https://pan.baidu.com/s/14tJpFPw8AfzNi_YWIdvAog) 密码: jkwp
 
-[汉化补丁](https://pan.baidu.com/s/1dXtk-KpEIyI2ho9wKRnIQw)密码: j39v
+[[汉化补丁]](https://pan.baidu.com/s/1dXtk-KpEIyI2ho9wKRnIQw)密码: j39v
 
-[汉化补丁备份]({{ site.url }}/downloads{{ page.url }}/{{ "[TeamPB]Conan_Phantom_CHS_v1.0.cia" | cgi_escape }})
+[[汉化补丁备份]]({{ site.url }}/downloads{{ page.url }}/{{ "[TeamPB]Conan_Phantom_CHS_v1.0.cia" | cgi_escape }})
 
 
 AR卡片：

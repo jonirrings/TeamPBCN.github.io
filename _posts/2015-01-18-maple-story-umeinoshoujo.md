@@ -46,12 +46,12 @@ tags: ["released"]
 * 农科院葡萄干：“好像我压根没帮上啥忙，所以也没啥好说的”
 
 ### 【下载链接】
-* [汉化ROM](https://pan.baidu.com/s/1i3vqn9z)  
+* [[汉化ROM]](https://pan.baidu.com/s/1i3vqn9z)  
   
 ----
 **汉化补丁：**  
-* [日版ROM用](https://pan.baidu.com/s/1eQhPlF8)  
-* [韩版ROM用](https://pan.baidu.com/s/1jG6J55c)  
+* [[日版ROM用]](https://pan.baidu.com/s/1eQhPlF8)  
+* [[韩版ROM用]](https://pan.baidu.com/s/1jG6J55c)  
   
 ----
-* [港版主机用初始存档](https://pan.baidu.com/s/1mg412I0)
+* [[港版主机用初始存档]](https://pan.baidu.com/s/1mg412I0)

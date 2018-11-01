@@ -15,11 +15,11 @@ tags: ["released"]
 |游戏平台|3DS|
 
 ### 【汉化STAFF】
-翻译： 云猫
-修图： 吉吉
-润色： 吉吉
-破解·程序： LITTOMA
-测试： 吉吉
+* 翻译： 云猫
+* 修图： 吉吉
+* 润色： 吉吉
+* 破解·程序： LITTOMA
+* 测试： 吉吉
 
 ### 【汉化说明】
 
@@ -33,9 +33,11 @@ tags: ["released"]
 ![screenshot3](/images/{{ page.url }}/screenshot_03.jpg)
 
 ### 【下载地址】
-[百度云](https://pan.baidu.com/s/1c2GZgTa)
+[[百度云]](https://pan.baidu.com/s/1c2GZgTa)
 密码: 2nhr 
 
+[[CIA]]({{ site.url }}/downloads{{ page.url }}/{{ "[TeamPB]Gifting_February_CHS_Ver_1.0.cia" | cgi_escape }})
+[[3DS]]({{ site.url }}/downloads{{ page.url }}/{{ "[TeamPB]Gifting_February_CHS_Ver_1.0.3ds" | cgi_escape }})
 
 ### 【温馨提示】
 * 游戏剧情顺序：

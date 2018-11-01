@@ -44,4 +44,4 @@ tags: ["released"]
 ![screenshot4](/images/{{ page.url }}/screenshot_04.jpg)
 
 ### 【下载地址】
-[百度云](https://pan.baidu.com/s/1o8NNlvc) 密码: af8r
+[[百度云]](https://pan.baidu.com/s/1o8NNlvc) 密码: af8r

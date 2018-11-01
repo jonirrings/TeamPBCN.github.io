@@ -41,4 +41,4 @@ tags: ["released"]
 ![screenshot4](/images/{{ page.url }}/screenshot_04.png)
 
 ### 【下载链接】
-[百度云](https://pan.baidu.com/s/1eSxrMLk) 密码：wwnl
+[[百度云]](https://pan.baidu.com/s/1eSxrMLk) 密码：wwnl

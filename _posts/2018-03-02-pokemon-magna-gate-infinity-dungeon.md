@@ -41,7 +41,10 @@ tags: ["released"]
 ![screenshot6](/images/{{ page.url }}/screenshot_06.jpg)
 
 ### 【下载地址】
-[百度云](https://pan.baidu.com/s/1mjz7Bsc) 密码: 8vtb
+[[百度云]](https://pan.baidu.com/s/1mjz7Bsc) 密码: 8vtb
+
+[[补丁备份]]({{ site.url }}/downloads{{ page.url }}/{{ "PMD_GTI_patch_CHS.exe" | cgi_escape }})
+[[DLC备份]]({{ site.url }}/downloads{{ page.url }}/{{ "PMD_GTI_DLC_ENG_USA.cia" | cgi_escape }})
 
 请将补丁打在美版上！
 
